@@ -1,0 +1,6 @@
+{
+  "name": "인터랙티브 지도 날씨 대시보드",
+  "description": "지도에서 원하는 위치를 클릭하거나 검색하여 실시간 날씨, 시간별/주간 예보, 대기질 지표를 확인할 수 있는 날씨 대시보드 (OpenWeatherMap API 연동 지원)",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
